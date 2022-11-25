@@ -22,3 +22,6 @@ C++
 
 ### 건물 모습
 ![실행화면](https://user-images.githubusercontent.com/52689951/203952738-1111ad3c-863d-4a30-a4f3-898d6860957a.png)
+
+### 휴대폰에서의 실행 모습
+![실행화면](https://user-images.githubusercontent.com/52689951/203953611-f7486bb4-f0a8-488d-963c-3cd818812f17.png)
