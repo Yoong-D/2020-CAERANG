@@ -16,5 +16,9 @@ UNITY
 Vuforia Engine
 C++
 
+# 실행화면 
+### 약도
+![약도](https://user-images.githubusercontent.com/52689951/203952103-0daeb181-fca6-45a3-944e-72dccd0516f7.png)
 
-
+### 건물 모습
+![실행화면](https://user-images.githubusercontent.com/52689951/203952738-1111ad3c-863d-4a30-a4f3-898d6860957a.png)
